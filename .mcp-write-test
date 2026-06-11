@@ -1,0 +1,3 @@
+MCP write test — 可安全删除
+测试时间：2026-06-11
+目的：验证 Claude Code 通过 GitHub MCP 的写入权限是否正常
